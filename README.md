@@ -1,4 +1,4 @@
-# Customer Churn Prediction Pipeline
+# Customer Churn Prediction Pipeline with Databricks and scikit-learn
 
 An end-to-end machine learning pipeline for predicting customer churn using Databricks, Delta Lake, and scikit-learn. This project simulates an enterprise-grade data solution that ingests raw transaction data, performs data engineering, trains a predictive model, and scores new customer data.
 
